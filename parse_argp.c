@@ -6,15 +6,11 @@
 /*   By: amalsago <amalsago@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/07/27 12:51:36 by amalsago          #+#    #+#             */
-/*   Updated: 2019/07/27 16:50:24 by amalsago         ###   ########.fr       */
+/*   Updated: 2019/07/27 17:00:31 by amalsago         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-
 #include <stdio.h>
-#include <stdlib.h>
-#include <unistd.h>
-#include <string.h>
 
 typedef struct		s_argp
 {
